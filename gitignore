@@ -1,0 +1,23 @@
+# Master Pips Academy - Demo
+# Archivos a ignorar en GitHub
+
+# Sistema operativo
+.DS_Store
+Thumbs.db
+
+# Editores
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# Archivos temporales
+*.log
+*.tmp
+.cache/
+
+# Si decides añadir WordPress más tarde
+wp-config.php
+wp-content/uploads/
+wp-content/cache/
